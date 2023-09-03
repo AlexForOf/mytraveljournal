@@ -1,0 +1,8 @@
+.main {
+    padding-top: 20px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
